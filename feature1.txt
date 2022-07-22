@@ -1,0 +1,7 @@
+Lets write a bunch of code in this feature
+
+We are trying to create a merge conflict to see in the pull request tab
+
+Imagine this is some really important code
+
+Or maybe, its just the embarassing picture of spongebob at the christmas party
